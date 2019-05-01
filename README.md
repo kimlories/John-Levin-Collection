@@ -10,4 +10,4 @@ To establish metadata standards for the John Levin Collection's wax cylinder cat
  Jennie Lee
  
 ## Data:
-Data in John Levin's collection of wax cylinder catalogs will be transferred (cataloged) in a digital repository for eventual online publication.
+Data in John Levin's collection of wax cylinder catalogs will be transferred (cataloged) to a digital repository for eventual online publication.
